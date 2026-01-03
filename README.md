@@ -14,6 +14,14 @@ A simple Flutter application for generating creative word pairs and managing the
 - Responsive layout for different screen sizes
 
 ---
+
+- ## Screenshots
+
+<img width="1225" height="839" alt="image" src="https://github.com/user-attachments/assets/7181c616-468d-4494-b089-6f75b730f159" />
+
+
+
+---
 ## How to Run
 
 1. Make sure Flutter is installed  
@@ -24,9 +32,5 @@ A simple Flutter application for generating creative word pairs and managing the
 bash
 flutter pub get
 flutter run
-
-## Screenshots
-
-<img width="1225" height="839" alt="image" src="https://github.com/user-attachments/assets/7181c616-468d-4494-b089-6f75b730f159" />
 
 
